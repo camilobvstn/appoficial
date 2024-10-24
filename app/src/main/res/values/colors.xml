@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="primary">#D32F2F</color>
+    <color name="secondary">#FFFFFF</color>
+
+    <color name="accent">#9E9E9E</color>
+    <color name="ligth">#FFCDD2</color>
+    <color name="secondarytext">#757575</color>
+    <color name="divider">#BDBDBD</color>
+    <color name="grisito">#e2e2e2</color>
+</resources>

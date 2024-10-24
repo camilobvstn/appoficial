@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "919794094901",
+    "project_id": "porfavorfunciona-cde68",
+    "storage_bucket": "porfavorfunciona-cde68.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919794094901:android:94f57de798ce58cd38f27c",
+        "android_client_info": {
+          "package_name": "com.example.noaguantomas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrXco43i-i9qKXqeoMF2fBxtQDyVjNQxw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

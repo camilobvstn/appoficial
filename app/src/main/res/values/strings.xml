@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">noaguantomas</string>
+    <string name="rut">Ingrese RUT</string>
+    <string name="pass">Ingrese contrasena</string>
+    <string name="bienvenido">Bienvenido</string>
+    <string name="RUT">Ingrese su RUT</string>
+    <string name="contrasenia">Ingrese su contrasena</string>
+    <string name="ingresar">Iniciar sesion</string>
+    <string name="buscar">Que estas buscando?</string>
+    <string name="categorias">Categorias</string>
+    <string name="ult_avisos">Ultimos avisos</string>
+    <string name="home">Inicio</string>
+    <string name="msg">Mensajes</string>
+    <string name="profile">Perfil</string>
+    <string name="iniciar">Iniciar Sesion</string>
+    <string name="mensajes">Mensajes</string>
+    <string name="usuario">Nombre Apellido</string>
+    <string name="mas">Ver mas</string>
+    <string name="correo">nombre.apellido@inacapmail.cl</string>
+    <string name="perdidos">OBJ. PERDIDOS</string>
+    <string name="avisos">AVISOS</string>
+    <string name="comunidad">COMUNIDAD</string>
+    <string name="textopubli">Texto de ejemplo de una publicacion.</string>
+    <string name="titulopub">TITULO DE PUBLICACION EJEMPLO</string>
+    <string name="tiempopubli">publicado hace Xh</string>
+    <string name="pedircorreo">Ingrese su correo</string>
+    <string name="pedirnombre">Ingrese su nombre completo</string>
+    <string name="enviar">Enviar</string>
+    <string name="pedircontra">Ingrese contrasena</string>
+    <string name="Noinicio">Credenciales incorrectas, intente nuevamente</string>
+    <string name="ok_no_inicio">ENTENDIDO</string>
+    <string name="nombreperfil">Nombre Completo</string>
+    <string name="correoperfil">Correo electronico</string>
+    <string name="nombreinicio">Nombre Completo</string>
+    <string name="nombrepubli">Nombre Completo</string>
+    <string name="correopubli">Correo electronico</string>
+    <string name="horapubli">Hora publicacion</string>
+    <string name="inacap">Tu Aplicación</string>
+    <string-array name="categorias_array">
+        <item>Objetos perdidos</item>
+        <item>Avisos</item>
+        <item>Comunidad</item>
+    </string-array>
+    <string name="publicar">Publicar</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
